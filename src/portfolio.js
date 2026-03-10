@@ -246,7 +246,7 @@ const achievementSection = {
         // },
         {
           name: "Final Project",
-          url: "shroukziada.github.io/foodie/"
+          url: "https://route-e-commerce-seven.vercel.app/login"
         }
       ]
     },
@@ -259,7 +259,7 @@ const achievementSection = {
         // { name: "Certification", url: "" },
         {
           name: "Final Project",
-          url: "shroukziada.github.io/foodie/"
+          url: "https://shroukziada.github.io/foodie/"
         }
       ]
     },
@@ -268,12 +268,12 @@ const achievementSection = {
       subtitle: "Dedicated to continuous learning through self-study, exploring modern web development technologies and best practices. Built multiple projects using Angular and JavaScript, focusing on creating responsive and user-friendly web applications.",
       image: require("./assets/images/googleAssistantLogo.webp"),
       // imageAlt: "Google Assistant Action Logo",
-      footerLink: [
-        {
-          name: "Final Project",
-          url: "route-e-commerce-seven.vercel.app"
-        }
-      ]
+      // footerLink: [
+      //   {
+      //     name: "Final Project",
+      //     url: "route-e-commerce-seven.vercel.app"
+      //   }
+      // ]
     },
 
 
