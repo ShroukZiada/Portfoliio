@@ -1,5 +1,5 @@
 {
-  "homepage": "https://developerfolio.js.org/",
+  "homepage": "https://ShroukZiada.github.io/Portfoliio",
   "name": "developerfolio",
   "version": "0.1.0",
   "private": true,
@@ -21,12 +21,11 @@
     "sass": "^1.32.8"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "start": "node fetch.js && react-scripts start",
-    "build": "node fetch.js && react-scripts build",
-    "deploy": "gh-pages -b master -d build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "format": "prettier --write \"./**/*.{js,css,json,scss}\"",
     "check-format": "prettier -c \"./**/*.{js,css,json,scss}\""
   },
