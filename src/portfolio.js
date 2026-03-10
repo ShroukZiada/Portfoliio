@@ -252,7 +252,7 @@ const achievementSection = {
     },
     {
       title: "Front End Developer",
-      subtitle: "Completed a 12-week intensive front-end development program, gaining hands-on experience with HTML, CSS, TypeScript, and Angular. Built responsive and user-friendly web applications while working with Git and modern development tools on real-world projects.س",
+      subtitle: "Completed a 12-week intensive front-end development program, gaining hands-on experience with HTML, CSS, TypeScript, and Angular. Built responsive and user-friendly web applications while working with Git and modern development tools on real-world projects.",
       image: require("./assets/images/upskilling.jpg"),
       // imageAlt: "PWA Logo",
       footerLink: [
