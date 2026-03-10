@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Portfoliio/static/css/main.6f5edc07.css",
+    "main.js": "/Portfoliio/static/js/main.1b950a5b.js",
+    "static/css/64.bba8fa55.chunk.css": "/Portfoliio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/Portfoliio/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/Portfoliio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/Portfoliio/static/js/769.bda0d7b7.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/Portfoliio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/cashier.jpg": "/Portfoliio/static/media/cashier.af0d3b75a45bfb1d566f.jpg",
+    "static/media/Agustina.woff": "/Portfoliio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/5.jpg": "/Portfoliio/static/media/5.839f88098788aefaf104.jpg",
+    "static/media/upskilling.jpg": "/Portfoliio/static/media/upskilling.aa4034ccd54f040f003b.jpg",
+    "static/media/manOnTable.svg": "/Portfoliio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/route (1).jpg": "/Portfoliio/static/media/route (1).e9b273d664b593ed3417.jpg",
+    "static/media/ecobg.png": "/Portfoliio/static/media/ecobg.e6241bbb8eca1a176fe7.png",
+    "static/media/contactMailDark.svg": "/Portfoliio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/Portfoliio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/googleAssistantLogo.webp": "/Portfoliio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/skill.svg": "/Portfoliio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/Portfoliio/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/Portfoliio/index.html",
+    "main.6f5edc07.css.map": "/Portfoliio/static/css/main.6f5edc07.css.map",
+    "main.1b950a5b.js.map": "/Portfoliio/static/js/main.1b950a5b.js.map",
+    "64.bba8fa55.chunk.css.map": "/Portfoliio/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/Portfoliio/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/Portfoliio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/Portfoliio/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f5edc07.css",
+    "static/js/main.1b950a5b.js"
+  ]
+}
